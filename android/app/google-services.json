@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340439143438",
+    "project_id": "taska-1c4d7",
+    "storage_bucket": "taska-1c4d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340439143438:android:d671034caa0fc5539d985f",
+        "android_client_info": {
+          "package_name": "com.example.taska"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3i1QwKtnH09Qb2KdMXmIoMx0wiPVrHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
